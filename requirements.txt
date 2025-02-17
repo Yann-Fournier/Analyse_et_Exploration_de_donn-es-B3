@@ -1,4 +1,7 @@
 pandas==2.2.3
 jupyter==1.1.1
 seaborn==0.13.2
-matplotlib
+matplotlib==3.7.1
+pywaffle==1.1.1
+wordcloud==1.9.4
+plotly==6.0.0
